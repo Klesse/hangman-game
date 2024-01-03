@@ -13,8 +13,9 @@ It is a hangman game that outputs via terminal.
 ## How to play
 
 1. run this code in the terminal in the game directory:
-
-bash```python JogoDaForca.py```
+```bash
+$ python JogoDaForca.py
+```
 
 ## Author
 
