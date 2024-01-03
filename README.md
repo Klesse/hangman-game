@@ -10,6 +10,10 @@ It is a hangman game that outputs via terminal.
 2. Magic methods
 3. Python built-in functions
 
+## How to play
+
+1. run this code in the terminal in the game directory: `python JogoDaForca.py`
+
 ## Author
 
 [Pedro Malandrin Klesse](https://www.github.com/Klesse)
